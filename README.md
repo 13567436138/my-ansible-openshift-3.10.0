@@ -1,0 +1,1 @@
+# my-ansible-openshift-3.10.0
